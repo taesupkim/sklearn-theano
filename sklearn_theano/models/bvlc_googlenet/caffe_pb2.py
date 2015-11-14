@@ -780,7 +780,7 @@ _BLOBSHAPE = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -867,7 +867,7 @@ _BLOBPROTO = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -898,7 +898,7 @@ _BLOBPROTOVECTOR = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -971,7 +971,7 @@ _DATUM = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -1052,7 +1052,7 @@ _FILLERPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -1139,7 +1139,7 @@ _NETPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -1439,7 +1439,7 @@ _SOLVERPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -1491,7 +1491,7 @@ _SOLVERSTATE = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -1536,7 +1536,7 @@ _NETSTATE = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -1595,7 +1595,7 @@ _NETSTATERULE = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -1648,7 +1648,7 @@ _PARAMSPEC = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2022,7 +2022,7 @@ _LAYERPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2095,7 +2095,7 @@ _TRANSFORMATIONPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2133,7 +2133,7 @@ _LOSSPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2178,7 +2178,7 @@ _ACCURACYPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2216,7 +2216,7 @@ _ARGMAXPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2254,7 +2254,7 @@ _CONCATPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2292,7 +2292,7 @@ _CONTRASTIVELOSSPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2422,7 +2422,7 @@ _CONVOLUTIONPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2517,7 +2517,7 @@ _DATAPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2548,7 +2548,7 @@ _DROPOUTPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2614,7 +2614,7 @@ _DUMMYDATAPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2660,7 +2660,7 @@ _ELTWISEPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2719,7 +2719,7 @@ _EMBEDPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2764,7 +2764,7 @@ _EXPPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2802,7 +2802,7 @@ _FLATTENPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2847,7 +2847,7 @@ _HDF5DATAPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2878,7 +2878,7 @@ _HDF5OUTPUTPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -2910,7 +2910,7 @@ _HINGELOSSPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3018,7 +3018,7 @@ _IMAGEDATAPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3049,7 +3049,7 @@ _INFOGAINLOSSPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3108,7 +3108,7 @@ _INNERPRODUCTPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3153,7 +3153,7 @@ _LOGPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3213,7 +3213,7 @@ _LRNPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3265,7 +3265,7 @@ _MEMORYDATAPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3310,7 +3310,7 @@ _MVNPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3420,7 +3420,7 @@ _POOLINGPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3465,7 +3465,7 @@ _POWERPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3517,7 +3517,7 @@ _PYTHONPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3563,7 +3563,7 @@ _REDUCTIONPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3602,7 +3602,7 @@ _RELUPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3647,7 +3647,7 @@ _RESHAPEPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3679,7 +3679,7 @@ _SIGMOIDPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3724,7 +3724,7 @@ _SLICEPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3763,7 +3763,7 @@ _SOFTMAXPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3795,7 +3795,7 @@ _TANHPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3833,7 +3833,7 @@ _TILEPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3864,7 +3864,7 @@ _THRESHOLDPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -3979,7 +3979,7 @@ _WINDOWDATAPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -4026,7 +4026,7 @@ _SPPPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -4353,7 +4353,7 @@ _V1LAYERPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -4644,7 +4644,7 @@ _V0LAYERPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
@@ -4682,7 +4682,7 @@ _PRELUPARAMETER = _descriptor.Descriptor(
   ],
   options=None,
   is_extendable=False,
-  syntax='proto2',
+  syntax='proto',
   extension_ranges=[],
   oneofs=[
   ],
