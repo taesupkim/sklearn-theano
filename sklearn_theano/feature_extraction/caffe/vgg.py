@@ -9,7 +9,7 @@ from .caffemodel import _parse_caffe_model, parse_caffe_model
 import os
 import theano
 
-VGG_PATH = get_dataset_dir("caffe/vgg")
+VGG_PATH = get_dataset_dir("caffe/vgg","../data")
 
 
 def fetch_vgg_protobuffer_file(caffemodel_file=None):
