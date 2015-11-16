@@ -90,6 +90,33 @@ def load_images(filenames):
                  filenames=filenames)
 
 
+def load_resize_images(filenames, resize=(448, 448)):
+    """Load images for image manipulation.
+
+    Parameters
+    ----------
+    filenames : iterable
+         Iterable of filename paths as strings
+
+    Returns
+    -------
+    data : Bunch
+        Dictionary-like object with the following attributes :
+        'images', the sample images, 'filenames', the file
+        names for the images
+    """
+    # Load image data for each image in the source folder.
+    images = [np.array(Image.open(filename, 'r').resize(resize, Image.ANTIALIAS)) for filename in filenames]
+
+    return Bunch(images=images,
+                 filenames=filenames)
+
+def load_resize_image(filename, resize=(448, 448)):
+    return np.array(Image.open(filename, 'r').resize(resize, Image.ANTIALIAS))
+
+
+
+
 def load_sample_images():
     """Load sample images for image manipulation.
     Loads ``sloth``, ``sloth_closeup``, ``cat_and_dog``.

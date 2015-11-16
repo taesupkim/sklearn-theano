@@ -95,7 +95,4 @@ def _get_fprop(output_layers=('prob',), model=None, verbose=0):
                                                         verbose=verbose)
     to_compile = [expressions[expr] for expr in output_layers]
 
-    for exp in expressions.items():
-        print exp
-
     return theano.function([input_data], to_compile)
